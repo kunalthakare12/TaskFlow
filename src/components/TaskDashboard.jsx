@@ -211,7 +211,7 @@ const TaskDashboard = ({ username, onLogout, isDarkMode, toggleDarkMode }) => {
                 </div>
               </div>
               <div>
-                <h1 className='font-medium text-center pt-8 text-zinc-400/60 text-xs'>Built by Rajesh for RYGNeco</h1>
+                <h1 className='font-medium text-center pt-8 text-zinc-400/60 text-xs'>Built by Kunal Thakare</h1>
               </div>
             </div>
 

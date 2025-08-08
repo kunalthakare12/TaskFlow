@@ -123,7 +123,7 @@ const Login = ({ onLogin, isDarkMode, toggleDarkMode }) => {
             target='blank'
             className={`text-sm font-semibold opacity-60 ${isDarkMode ? 'text-gray-400' : 'text-gray-500'
               }`}>
-            Built with 💖 by Rajesh .
+            Built by Kunal Thakare.
           </a>
         </div>
       </div>
